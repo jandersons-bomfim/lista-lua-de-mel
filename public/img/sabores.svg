@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração de uma caipirinha com limão e um prato de petiscos">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M90 330 Q94.0 264.0 110 210" fill="none" stroke="#2B1D19" stroke-width="3"/><path d="M110 210 Q86 186 62 212" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M110 210 Q97 173 85 190" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M110 210 Q114 170 119 186" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M110 210 Q129 178 149 199" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M110 210 Q135 195 161 225" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M110 210 Q132 207 154 246" fill="none" stroke="#2B1D19" stroke-width="2.2"/>
+<rect x="0" y="330" width="640" height="56" fill="#fff" opacity=".6"/><path d="M0 330 H640" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M230 130 L370 130 L352 322 L248 322Z" fill="#fff" stroke="#2B1D19" stroke-width="2.6"/>
+<path d="M236 190 L364 190 L352 322 L248 322Z" fill="#E6D3C8" opacity=".9"/>
+<rect x="262" y="214" width="34" height="34" rx="5" transform="rotate(-14 279 231)" fill="#fff" stroke="#B88E7D" stroke-width="2"/>
+<rect x="306" y="248" width="34" height="34" rx="5" transform="rotate(10 323 265)" fill="#fff" stroke="#B88E7D" stroke-width="2"/>
+<circle cx="300" cy="200" r="22" fill="#CFD7A3" stroke="#2B1D19" stroke-width="2"/><path d="M300 200 L300 178 M300 200 L318 188 M300 200 L318 212 M300 200 L300 222 M300 200 L282 212 M300 200 L282 188" stroke="#2B1D19" stroke-width="1.4"/>
+<path d="M330 150 L392 70" stroke="#B88E7D" stroke-width="7" fill="none"/><path d="M330 150 L392 70" stroke="#2B1D19" stroke-width="2" fill="none"/>
+<circle cx="372" cy="132" r="26" fill="#CFD7A3" stroke="#2B1D19" stroke-width="2.4"/><path d="M372 132 L372 110 M372 132 L390 120 M372 132 L390 144 M372 132 L372 154 M372 132 L354 144 M372 132 L354 120" stroke="#2B1D19" stroke-width="1.4"/>
+<ellipse cx="500" cy="322" rx="84" ry="14" fill="#fff" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M440 316 L476 262 L512 316Z M488 316 L524 270 L556 316Z" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.2"/>
+<path d="M180 164 L181.68 168.32 L186 170 L181.68 171.68 L180 176 L178.32 171.68 L174 170 L178.32 168.32Z" fill="#B79A66"/><path d="M560 193 L561.96 198.04 L567 200 L561.96 201.96 L560 207 L558.04 201.96 L553 200 L558.04 198.04Z" fill="#B79A66"/>
+</g></svg>

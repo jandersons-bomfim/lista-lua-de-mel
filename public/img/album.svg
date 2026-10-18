@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração de fotografias instantâneas coladas em um álbum, com coração">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="110" y="70" width="420" height="270" rx="6" fill="#fff" stroke="#2B1D19" stroke-width="2.6"/>
+<path d="M320 70 V340" stroke="#B88E7D" stroke-width="2" stroke-dasharray="3 5"/>
+<g transform="rotate(-6 215 205)"><rect x="150" y="120" width="130" height="150" fill="#fff" stroke="#2B1D19" stroke-width="2.2"/>
+<rect x="160" y="130" width="110" height="100" fill="#E6D3C8" stroke="#B88E7D"/><circle cx="215" cy="165" r="14" fill="#F4EEE9" stroke="#B88E7D"/><path d="M160 230 L195 190 L225 215 L245 195 L270 230Z" fill="#B88E7D" opacity=".7"/>
+<rect x="190" y="108" width="50" height="16" fill="#B79A66" opacity=".55"/></g>
+<g transform="rotate(5 425 200)"><rect x="360" y="110" width="130" height="150" fill="#fff" stroke="#2B1D19" stroke-width="2.2"/>
+<rect x="370" y="120" width="110" height="100" fill="#E6D3C8" stroke="#B88E7D"/>
+<path d="M370 220 C375 175 405 160 430 166 C455 172 470 190 480 220Z" fill="#B88E7D" opacity=".7"/>
+<rect x="400" y="98" width="50" height="16" fill="#B79A66" opacity=".55"/></g>
+<path d="M320 300 C300 278 280 268 280 252 C280 238 296 232 308 240 C314 244 318 250 320 254 C322 250 326 244 332 240 C344 232 360 238 360 252 C360 268 340 278 320 300Z" fill="#B88E7D" stroke="#2B1D19" stroke-width="2.2"/>
+<path d="M520 82 L522.24 87.76 L528 90 L522.24 92.24 L520 98 L517.76 92.24 L512 90 L517.76 87.76Z" fill="#B79A66"/><path d="M110 324 L111.68 328.32 L116 330 L111.68 331.68 L110 336 L108.32 331.68 L104 330 L108.32 328.32Z" fill="#B79A66"/>
+</g></svg>

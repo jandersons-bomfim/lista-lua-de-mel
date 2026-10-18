@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração de uma asa-delta voando sobre a costa do Rio de Janeiro">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<circle cx="130" cy="96" r="38" fill="#E6D3C8" stroke="#B88E7D" stroke-width="2"/>
+<path d="M60 200 q12.0 -19.2 33.6 -9.6 q14.399999999999999 -21.599999999999998 38.4 -4.8 q24.0 0 19.2 14.399999999999999 z" fill="#fff" stroke="#B88E7D" stroke-width="1.5"/><path d="M450 90 q10 -16 28 -8 q12 -18 32 -4 q20 0 16 12 z" fill="#fff" stroke="#B88E7D" stroke-width="1.5"/>
+<path d="M360 300 L420 190 L470 160 L520 200 L560 170 L640 260 L640 300Z" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M0 300 Q200 270 360 300 T640 300 L640 400 L0 400Z" fill="#fff" opacity=".6"/>
+<path d="M-40 322 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0 q20.0 -8 40.0 0 t40.0 0" fill="none" stroke="#B88E7D" stroke-width="1.5"/><path d="M-40 346 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0" fill="none" stroke="#2B1D19" stroke-width="2.4"/><path d="M0 370 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0" fill="none" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M230 150 L320 100 L410 150 L320 136Z" fill="#B88E7D" stroke="#2B1D19" stroke-width="2.6"/>
+<path d="M320 100 L320 136 M320 136 L320 176" stroke="#2B1D19" stroke-width="2.4" fill="none"/>
+<circle cx="320" cy="184" r="7" fill="#fff" stroke="#2B1D19" stroke-width="2.2"/>
+<path d="M320 192 L320 216 M320 200 L304 212 M320 200 L336 212" stroke="#2B1D19" stroke-width="2.4" fill="none"/>
+<path d="M180 164 L181.68 168.32 L186 170 L181.68 171.68 L180 176 L178.32 171.68 L174 170 L178.32 168.32Z" fill="#B79A66"/><path d="M500 103 L501.96 108.04 L507 110 L501.96 111.96 L500 117 L498.04 111.96 L493 110 L498.04 108.04Z" fill="#B79A66"/>
+</g></svg>

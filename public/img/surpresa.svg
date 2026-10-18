@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração de um presente com laço dourado e brilhos, com o Pão de Açúcar ao fundo">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M60 340 C60 241.0 109.5 205.0 163.5 205.0 C217.5 205.0 240.0 268.0 249.0 340 Z" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.4"/>
+<rect x="0" y="340" width="640" height="46" fill="#fff" opacity=".6"/><path d="M0 340 H640" stroke="#2B1D19" stroke-width="2.4"/>
+<rect x="250" y="210" width="140" height="130" fill="#B88E7D" stroke="#2B1D19" stroke-width="2.6"/>
+<rect x="238" y="178" width="164" height="36" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.6"/>
+<rect x="311" y="178" width="18" height="162" fill="#B79A66" stroke="#2B1D19" stroke-width="2"/>
+<path d="M320 178 C280 120 232 140 262 172 C276 182 304 182 320 178Z M320 178 C360 120 408 140 378 172 C364 182 336 182 320 178Z" fill="#B79A66" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M210 108 L213.36 116.64 L222 120 L213.36 123.36 L210 132 L206.64 123.36 L198 120 L206.64 116.64Z" fill="#B79A66"/><path d="M450 86 L453.92 96.08 L464 100 L453.92 103.92 L450 114 L446.08 103.92 L436 100 L446.08 96.08Z" fill="#B79A66"/><path d="M480 193 L481.96 198.04 L487 200 L481.96 201.96 L480 207 L478.04 201.96 L473 200 L478.04 198.04Z" fill="#B79A66"/><path d="M170 224 L171.68 228.32 L176 230 L171.68 231.68 L170 236 L168.32 231.68 L164 230 L168.32 228.32Z" fill="#B79A66"/><path d="M330 83 L331.96 88.04 L337 90 L331.96 91.96 L330 97 L328.04 91.96 L323 90 L328.04 88.04Z" fill="#B79A66"/>
+<path d="M520 270 C506 254 496 248 496 238 C496 228 508 226 516 232 C520 235 520 238 520 240 C520 238 522 235 528 232 C536 226 548 228 548 238 C548 248 536 254 520 270Z" fill="#B88E7D" stroke="#2B1D19" stroke-width="2"/>
+</g></svg>

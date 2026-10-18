@@ -1,0 +1,8 @@
+# Configuração mínima para a CLI do Supabase.
+project_id = "lua-de-mel"
+
+[functions.create-pix-charge]
+verify_jwt = true     # chamada pelo site com a chave anon
+
+[functions.pix-webhook]
+verify_jwt = false    # chamada pelo provedor; a autenticidade é verificada pela assinatura HMAC

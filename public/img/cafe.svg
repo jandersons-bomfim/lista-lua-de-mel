@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração de uma xícara de café fumegante com a orla do Rio ao fundo">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M0 250 Q160 210 320 245 T640 235 L640 400 L0 400Z" fill="#E6D3C8" opacity=".7"/>
+<path d="M-40 300 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0 q20.0 -10 40.0 0 t40.0 0" fill="none" stroke="#B88E7D" stroke-width="1.6"/><path d="M-40 330 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0" fill="none" stroke="#2B1D19" stroke-width="2.4"/><path d="M0 356 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0 q20.0 -16 40.0 0 t40.0 0" fill="none" stroke="#2B1D19" stroke-width="2.4"/>
+<ellipse cx="320" cy="262" rx="120" ry="22" fill="#fff" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M250 170 L250 230 Q250 262 290 262 L350 262 Q390 262 390 230 L390 170Z" fill="#fff" stroke="#2B1D19" stroke-width="2.6"/>
+<path d="M390 188 q42 0 42 28 q0 28 -42 28" fill="none" stroke="#2B1D19" stroke-width="2.6"/>
+<path d="M250 170 Q320 190 390 170" fill="#B88E7D" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M290 140 q-14 -18 0 -34 q14 -16 0 -34 M330 140 q-14 -18 0 -34 q14 -16 0 -34 M366 140 q-12 -16 0 -30" fill="none" stroke="#B79A66" stroke-width="2.2"/>
+<path d="M470 112 L472.24 117.76 L478 120 L472.24 122.24 L470 128 L467.76 122.24 L462 120 L467.76 117.76Z" fill="#B79A66"/><path d="M170 144 L171.68 148.32 L176 150 L171.68 151.68 L170 156 L168.32 151.68 L164 150 L168.32 148.32Z" fill="#B79A66"/>
+</g></svg>

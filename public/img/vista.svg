@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração do Pão de Açúcar e do morro da Urca sobre a baía de Guanabara">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<circle cx="500" cy="100" r="40" fill="#E6D3C8" stroke="#B88E7D" stroke-width="2"/>
+<path d="M80 110 q10 -16 28 -8 q12 -18 32 -4 q20 0 16 12 z" fill="#fff" stroke="#B88E7D" stroke-width="1.5"/><path d="M380 70 q12.0 -19.2 33.6 -9.6 q14.399999999999999 -21.599999999999998 38.4 -4.8 q24.0 0 19.2 14.399999999999999 z" fill="#fff" stroke="#B88E7D" stroke-width="1.5"/>
+<rect x="0" y="300" width="640" height="100" fill="#fff" opacity=".55"/>
+<path d="M60 300 C70 250 110 232 160 246 L168 300Z" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M200 300 C200 179.0 260.5 135.0 326.5 135.0 C392.5 135.0 420.0 212.0 431.0 300 Z" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M120 252 L330 134" stroke="#B79A66" stroke-width="2" stroke-dasharray="5 5" fill="none"/>
+<rect x="212" y="186" width="22" height="16" rx="3" transform="rotate(-30 223 194)" fill="#B88E7D" stroke="#2B1D19" stroke-width="1.8"/>
+<path d="M-40 318 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0 q20.0 -7 40.0 0 t40.0 0" fill="none" stroke="#B88E7D" stroke-width="1.5"/><path d="M-40 340 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0" fill="none" stroke="#2B1D19" stroke-width="2.4"/><path d="M0 364 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0 q20.0 -14 40.0 0 t40.0 0" fill="none" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M470 322 L470 286 L498 322Z M486 340 L486 312 L506 340Z" fill="#fff" stroke="#2B1D19" stroke-width="2"/>
+</g></svg>

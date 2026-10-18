@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração do Cristo Redentor sobre o morro do Corcovado">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<circle cx="450" cy="110" r="44" fill="#E6D3C8" stroke="#B88E7D" stroke-width="2"/>
+<path d="M90 120 q12.0 -19.2 33.6 -9.6 q14.399999999999999 -21.599999999999998 38.4 -4.8 q24.0 0 19.2 14.399999999999999 z" fill="#fff" stroke="#B88E7D" stroke-width="1.5"/><path d="M480 190 q10 -16 28 -8 q12 -18 32 -4 q20 0 16 12 z" fill="#fff" stroke="#B88E7D" stroke-width="1.5"/>
+<path d="M70 400 Q320 120 570 400Z" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.6"/>
+<path d="M120 400 Q320 190 520 400" fill="none" stroke="#B88E7D" stroke-width="1.6"/>
+<g transform="translate(320 228) scale(1.5) translate(-320 -228)"><rect x="311" y="218" width="18" height="26" fill="#fff" stroke="#2B1D19" stroke-width="2"/>
+<path d="M320 170 L320 218 M280 188 L360 188" stroke="#2B1D19" stroke-width="7" fill="none"/>
+<path d="M320 170 L320 218 M280 188 L360 188" stroke="#fff" stroke-width="3" fill="none"/>
+<circle cx="320" cy="160" r="8" fill="#fff" stroke="#2B1D19" stroke-width="2.4"/></g>
+<path d="M300 120 q8 -10 16 0 M340 100 q8 -10 16 0" fill="none" stroke="#2B1D19" stroke-width="2"/>
+<path d="M110 380 Q112.0 341.5 120 310" fill="none" stroke="#2B1D19" stroke-width="3"/><path d="M120 310 Q105 295 90 311" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M120 310 Q112 286 104 297" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M120 310 Q123 284 126 294" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M120 310 Q132 290 145 303" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M120 310 Q136 300 152 320" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M120 310 Q134 308 148 333" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M530 380 Q528.0 347.0 520 320" fill="none" stroke="#2B1D19" stroke-width="3"/><path d="M520 320 Q507 307 494 321" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M520 320 Q513 300 506 309" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M520 320 Q522 298 525 307" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M520 320 Q531 303 541 314" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M520 320 Q534 312 548 328" fill="none" stroke="#2B1D19" stroke-width="2.2"/><path d="M520 320 Q532 318 544 339" fill="none" stroke="#2B1D19" stroke-width="2.2"/>
+</g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração de duas taças brindando e uma vela, com o Pão de Açúcar ao fundo">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M40 300 C40 212.0 84.0 180.0 132.0 180.0 C180.0 180.0 200.0 236.0 208.0 300 Z" fill="#E6D3C8" stroke="#2B1D19" stroke-width="2.4"/>
+<path d="M0 300 H640" stroke="#2B1D19" stroke-width="2.4"/>
+<rect x="0" y="300" width="640" height="86" fill="#fff" opacity=".6"/>
+<g transform="rotate(-12 255 300)"><path d="M215 140 Q215 218 255 226 Q295 218 295 140Z" fill="#fff" stroke="#2B1D19" stroke-width="2.6"/><path d="M217 170 Q255 186 293 170 Q291 218 255 224 Q219 218 217 170Z" fill="#B88E7D" opacity=".85"/><path d="M255 226 V292 M222 294 H288" stroke="#2B1D19" stroke-width="2.6" fill="none"/></g>
+<g transform="rotate(12 385 300)"><path d="M345 140 Q345 218 385 226 Q425 218 425 140Z" fill="#fff" stroke="#2B1D19" stroke-width="2.6"/><path d="M347 170 Q385 186 423 170 Q421 218 385 224 Q349 218 347 170Z" fill="#B88E7D" opacity=".85"/><path d="M385 226 V292 M352 294 H418" stroke="#2B1D19" stroke-width="2.6" fill="none"/></g>
+<path d="M320 108 L323.36 116.64 L332 120 L323.36 123.36 L320 132 L316.64 123.36 L308 120 L316.64 116.64Z" fill="#B79A66"/><path d="M290 86 L291.68 90.32 L296 92 L291.68 93.68 L290 98 L288.32 93.68 L284 92 L288.32 90.32Z" fill="#B79A66"/><path d="M352 81 L353.96 86.04 L359 88 L353.96 89.96 L352 95 L350.04 89.96 L345 88 L350.04 86.04Z" fill="#B79A66"/>
+<rect x="474" y="238" width="22" height="62" fill="#fff" stroke="#2B1D19" stroke-width="2.2"/>
+<path d="M485 238 q-9 -16 0 -30 q9 14 0 30" fill="#B79A66" stroke="#2B1D19" stroke-width="1.8"/>
+</g></svg>

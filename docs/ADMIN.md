@@ -1,0 +1,13 @@
+# Guia do painel (`<site>/#/admin`)
+- **Contribuições**: cartões com meta, confirmado, restante, %, confirmadas, pendentes, valor aguardando e data limite. Tabela com busca (nome/código), filtro por status, ordenação (clique no título da coluna) e CSV.
+- **Abrir** uma contribuição mostra itens, mensagem, transação, quem confirmou e o histórico.
+- **Escreva a justificativa antes** de qualquer mudança de status (mínimo 3 caracteres).
+  - *Confirmar pagamento*: só depois de ver o dinheiro no extrato. Registra data, responsável e observação.
+  - *Marcar como expirada* / *Cancelar*: para pendentes.
+  - *Reativar*: traz expirada/cancelada de volta a "aguardando pagamento" (fica no histórico).
+  - *Desfazer confirmação*: exceção para corrigir engano; o valor sai da meta.
+  - *Salvar observação* e *Corrigir nome/mensagem*: ficam no histórico com antes/depois.
+- **Presentes**: edite título, descrição, valor, imagem, ordem e visibilidade; "Adicionar cota". Contribuições antigas mantêm título e valor originais.
+- **Configurações**: meta, data/hora limite (Salvador), dados do Pix, encerrar/reabrir a lista (com justificativa).
+- **Histórico**: últimas 300 ações (quem, quando, o quê, por quê).
+- Após o prazo: ninguém mais contribui; o painel segue disponível e você ainda pode confirmar pagamentos pendentes já registrados.

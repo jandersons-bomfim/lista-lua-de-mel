@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Ilustração noturna do Rio de Janeiro com lua crescente sobre o Pão de Açúcar">
+<rect width="640" height="400" fill="#F4EEE9"/>
+<rect x="14" y="14" width="612" height="372" fill="none" stroke="#B79A66" stroke-width="1" opacity=".7"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="14" y="14" width="612" height="372" fill="#EBDDD3"/>
+<path d="M90 74 L91.68 78.32 L96 80 L91.68 81.68 L90 86 L88.32 81.68 L84 80 L88.32 78.32Z" fill="#B79A66"/><path d="M180 125 L181.4 128.6 L185 130 L181.4 131.4 L180 135 L178.6 131.4 L175 130 L178.6 128.6Z" fill="#B79A66"/><path d="M250 53 L251.96 58.04 L257 60 L251.96 61.96 L250 67 L248.04 61.96 L243 60 L248.04 58.04Z" fill="#B79A66"/><path d="M430 85 L431.4 88.6 L435 90 L431.4 91.4 L430 95 L428.6 91.4 L425 90 L428.6 88.6Z" fill="#B79A66"/><path d="M530 53 L531.96 58.04 L537 60 L531.96 61.96 L530 67 L528.04 61.96 L523 60 L528.04 58.04Z" fill="#B79A66"/><path d="M580 135 L581.4 138.6 L585 140 L581.4 141.4 L580 145 L578.6 141.4 L575 140 L578.6 138.6Z" fill="#B79A66"/><path d="M360 146 L361.12 148.88 L364 150 L361.12 151.12 L360 154 L358.88 151.12 L356 150 L358.88 148.88Z" fill="#B79A66"/>
+<circle cx="460" cy="120" r="46" fill="#B88E7D"/><circle cx="480" cy="108" r="42" fill="#EBDDD3"/>
+<path d="M14 330 L14 300 Q80 280 130 296 L140 330Z" fill="#2B1D19"/>
+<path d="M140 330 C140 250 190 214 250 214 C310 214 330 270 338 330Z" fill="#2B1D19"/>
+<path d="M338 330 L338 310 L380 304 L420 316 L470 300 L500 312 L626 296 L626 330Z" fill="#2B1D19"/>
+<path d="M260 214 L430 120" stroke="#B79A66" stroke-width="1.6" stroke-dasharray="4 5" fill="none"/>
+<path d="M-40 346 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0" fill="none" stroke="#B79A66" stroke-width="1.4"/><path d="M0 362 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0" fill="none" stroke="#B79A66" stroke-width="1.4"/><path d="M-20 378 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0 q20.0 -6 40.0 0 t40.0 0" fill="none" stroke="#B79A66" stroke-width="1.4"/>
+</g></svg>
